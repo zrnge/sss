@@ -1,3 +1,3 @@
 # sss
-<img src="sss.png" alt="drawing" style="place-items: center;"/>
+<img src="sss.png"/>
 COMING SOON 🔜 
